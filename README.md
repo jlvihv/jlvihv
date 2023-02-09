@@ -1,9 +1,13 @@
 # jlvihv 👋
 
-![contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jlvihv&theme=github)
+![](./profile-summary-card-output/github_dark/0-profile-details.svg)
 
-![top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jlvihv&theme=github)
+<figure class="half">
+    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+</figure>
 
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jlvihv&theme=github)
-
-![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jlvihv&theme=github&utcOffset=8)
+<figure class="half">
+    <img src="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="./profile-summary-card-output/github_dark/4-productive-time.svg">
+</figure>
