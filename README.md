@@ -1,7 +1,7 @@
 # jlvihv 👋
 
 <div align=center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jlvihv&theme=github_dark">
+    <img width="804" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jlvihv&theme=github_dark">
 </div>
 
 <div align=center>
